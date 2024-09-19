@@ -17,3 +17,5 @@ Use your qb-target button (L Alt by default) to open a stash
 Throw away any items you want
 Close the stash
 Re-open the stash twice to make sure the items are gone forever
+
+Note: There might be an error in your console for qb-inventory, but ignore it, or fix it if you know how
